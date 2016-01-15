@@ -1,9 +1,7 @@
-try Babel
+Try babel
+---
 
-## Setup
+## Getting Started
 
-    npm install
-
-## Try
-
-    grunt
+- cnpm install
+- gulp
